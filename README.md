@@ -1,6 +1,6 @@
 # 100hr-project-news
 
-These 100 hour projects are part of the freelance work I did as Full Stack Software Engineer for [100Devs Agency](https://www.linkedin.com/company/100devs/)
+These 100 hour projects are part of the freelance work as Full Stack Software Engineer for [100Devs Agency](https://www.linkedin.com/company/100devs/)
 
 Check out this ongoing news website and mobile app project [here](https://agcdtmr.github.io/100hr-project-news/)
 
